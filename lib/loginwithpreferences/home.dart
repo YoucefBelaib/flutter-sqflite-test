@@ -1,4 +1,4 @@
-import 'package:async_training/loginwithpreferences/login.dart%20';
+import 'package:async_training/loginwithpreferences/login.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
